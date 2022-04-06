@@ -1,0 +1,9 @@
+.not-found {
+  min-height: 80vh;
+}
+.error-container {
+  height: 500px;
+}
+.error-container img {
+  height: 300px;
+}

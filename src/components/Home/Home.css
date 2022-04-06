@@ -1,0 +1,28 @@
+.home-img img {
+  height: 100%;
+}
+.home-txt {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.reviews-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+@media screen and (max-width: 828px) {
+  .reviews-container {
+    grid-template-columns: repeat(1, 1fr);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media screen and (min-width: 829px) and (max-width: 1216px) {
+  .reviews-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

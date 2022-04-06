@@ -1,0 +1,68 @@
+[
+    {
+      "id": "624a15e6d730f69a540e0488",
+      "year": 2016,
+      "goal": 51,
+      "goal_with_laliga_team": 38,
+      "laliga_team": "Sevilla",
+      "month": "Mar",
+      "investment": 100000,
+      "sell": 241,
+      "revenue": 10401
+    },
+    {
+      "id": "624a15e6116e61e7f7613f79",
+      "year": 2017,
+      "goal": 50,
+      "goal_with_laliga_team": 32,
+      "laliga_team": "ATM",
+      "month": "Apr",
+        "investment": 200000,
+        "sell": 423,
+        "revenue": 24500
+    },
+    {
+      "id": "624a15e6430aa26788531c4b",
+      "year": 2018,
+      "goal": 47,
+      "goal_with_laliga_team": 26,
+      "laliga_team": "RM",
+      "month": "May",
+        "investment": 500000,
+        "sell": 726,
+        "revenue": 67010
+    },
+    {
+      "id": "624a15e62b6bbda79e482c4e",
+      "year": 2019,
+      "goal": 45,
+      "goal_with_laliga_team": 31,
+      "laliga_team": "Valencia",
+      "month": "Jun",
+        "investment": 500000,
+        "sell": 529,
+        "revenue": 40405
+    },
+    {
+      "id": "624a15e6f3b70adede588c2f",
+      "year": 2020,
+      "goal": 26,
+      "goal_with_laliga_team": 25,
+      "laliga_team": "Esp",
+      "month": "Jul",
+        "investment": 600000,
+        "sell": 601,
+        "revenue": 50900
+    },
+    {
+      "id": "624a15e686d548de90a77ae6",
+      "year": 2021,
+      "goal": 28,
+      "goal_with_laliga_team": 26,
+      "laliga_team": "Betis",
+      "month": "Aug",
+        "investment": 700000,
+        "sell": 670,
+        "revenue": 61000
+    }
+  ]

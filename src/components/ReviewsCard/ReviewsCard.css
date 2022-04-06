@@ -1,0 +1,8 @@
+.card {
+  width: 23rem;
+  height: 25rem;
+  box-shadow: 10px 10px 10px gainsboro;
+}
+.card-img {
+  height: 150px;
+}

@@ -1,0 +1,22 @@
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+.reviews {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+@media screen and (max-width: 828px) {
+  .card-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+@media screen and (min-width: 829px) and (max-width: 1216px) {
+  .card-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
